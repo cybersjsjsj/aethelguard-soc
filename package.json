@@ -1,0 +1,22 @@
+{
+  "name": "aethelguard-soc-platform",
+  "version": "5.0.0",
+  "description": "Enterprise Cyber Defense & SOC Platform v5.0 - Fullstack Node.js Backend & Cybersec Suite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "cybersecurity",
+    "soc",
+    "cisa-kev",
+    "osint",
+    "mitre-attack",
+    "jwt",
+    "dns-audit",
+    "threat-intel"
+  ],
+  "author": "AethelGuard Security",
+  "license": "MIT"
+}
